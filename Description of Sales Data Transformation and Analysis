@@ -1,0 +1,4 @@
+In this project, I tackled the challenge of restructuring and cleansing unstructured sales data to extract valuable insights. 
+The dataset, comprising sales transactions from a multinational corporation operating across continents, presented significant data quality issues and inconsistencies. 
+Employing over 20+ DAX (Data Analysis Expressions) queries in Power BI, I meticulously refined the data, standardized formats, and corrected discrepancies to transform raw data into a reliable source of information. 
+The resulting insights facilitated data-driven decision-making, enabling strategic planning and performance optimization within the sales domain.
